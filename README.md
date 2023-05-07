@@ -31,7 +31,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/muratyildirim"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="210" alt="muratyildirim" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muratyildirimm&show_icons=true&locale=en&layout=compact" alt="muratyildirimm" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muratyildirimm&show_icons=true&locale=en&layout=compact" alt="muratyildirimm" /><
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muratyildirimm&show_icons=true&locale=en" alt="muratyildirimm" /></p>
 
